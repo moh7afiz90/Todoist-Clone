@@ -1,5 +1,6 @@
 import firebase from "firebase/app";
-import "firebasa/firestore";
+import "firebase/firestore";
+
 const firebaseConfig = firebase.initializeApp({
   apiKey: "AIzaSyBaKwLhMDHjiJe1conuQGIRurGeLAZ1O1A",
   authDomain: "todoist-clone-b322b.firebaseapp.com",
